@@ -1,0 +1,252 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 600px;
+}
+
+.row {
+    width: 100%;
+    height: 65px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+.row .logo {
+    background-color: aqua;
+    width: 30%;
+    height: 100%;
+    float: left;
+    padding: 10px;
+}
+
+.row .nav {
+    background-color: aqua;
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
+h3 {
+    color: black;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.row h2.logo {
+    text-align: left;
+    font-size: smaller;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 auto;
+}
+
+.row_prt {
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.row_prt .row_prt_1 {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.row_prt .row_prt_1 .prt1 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: brown;
+    float: left;
+}
+
+.row_prt .row_prt_1 .prt2 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: brown;
+    float: left;
+}
+
+.row_prt .row_prt_1 .prt3 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: brown;
+    float: left;
+}
+
+.row_prt .row_prt_1 .prt4 {
+    width: 21%;
+    height: 100%;
+    background-color: brown;
+    float: left;
+}
+
+
+/* ---------------------------------------------------------------------------------------------- */
+
+.row_prt .row_prt_2 {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.row_prt .row_prt_2 .prt1 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(165, 153, 42);
+    float: left;
+}
+
+.row_prt .row_prt_2 .prt2 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(165, 153, 42);
+    float: left;
+}
+
+.row_prt .row_prt_2 .prt3 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(165, 153, 42);
+    float: left;
+}
+
+.row_prt .row_prt_2 .prt4 {
+    width: 21%;
+    height: 100%;
+    background-color: rgb(165, 153, 42);
+    float: left;
+}
+
+
+/* ------------------------------------------------------------------------------- */
+
+.row_prt .row_prt_3 {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.row_prt .row_prt_3 .prt1 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(42, 147, 165);
+    float: left;
+}
+
+.row_prt .row_prt_3 .prt2 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(42, 147, 165);
+    float: left;
+}
+
+.row_prt .row_prt_3 .prt3 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(42, 147, 165);
+    float: left;
+}
+
+.row_prt .row_prt_3 .prt4 {
+    width: 21%;
+    height: 100%;
+    background-color: rgb(42, 147, 165);
+    float: left;
+}
+
+
+/* --------------------------------------------------------------------------------- */
+
+.row_prt .row_prt_4 {
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.row_prt .row_prt_4 .prt1 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(91, 165, 42);
+    float: left;
+}
+
+.row_prt .row_prt_4 .prt2 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(91, 165, 42);
+    float: left;
+}
+
+.row_prt .row_prt_4 .prt3 {
+    width: 21%;
+    height: 100%;
+    margin-right: 71px;
+    background-color: rgb(91, 165, 42);
+    float: left;
+}
+
+.row_prt .row_prt_4 .prt4 {
+    width: 21%;
+    height: 100%;
+    background-color: rgb(91, 165, 42);
+    float: left;
+}
+
+
+/* ---------------------------------------------------------------------------------- */
+
+.box {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.box .box1 {
+    width: 30%;
+    height: 100%;
+    background-color: burlywood;
+    margin-right: 66px;
+    float: left;
+    margin-top: 20px;
+}
+
+.box .box2 {
+    width: 30%;
+    height: 100%;
+    background-color: burlywood;
+    margin-right: 66px;
+    float: left;
+    margin-top: 20px;
+}
+
+.box .box3 {
+    width: 30%;
+    height: 100%;
+    background-color: burlywood;
+    float: left;
+    margin-top: 20px;
+}
+
+.footer {
+    width: 100%;
+    height: 30px;
+    background-color: darkmagenta;
+    margin-top: 190px;
+}
